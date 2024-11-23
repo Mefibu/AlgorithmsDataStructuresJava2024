@@ -1,5 +1,6 @@
-package TicTacToe;
+package TicTacToe.player;
 
+import TicTacToe.Board;
 import java.util.Scanner;
 
 public class HumanPlayer implements Player {

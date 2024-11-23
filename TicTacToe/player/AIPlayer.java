@@ -1,4 +1,6 @@
-package TicTacToe;
+package TicTacToe.player;
+
+import TicTacToe.Board;
 
 public class AIPlayer implements Player {
     private char symbol;

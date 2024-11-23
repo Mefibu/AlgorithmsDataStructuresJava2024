@@ -14,13 +14,13 @@ public class Board {
     }
 
     public void displayBoard() {
-        System.out.println("---------");
+        System.out.println("-------------");
         for (int i = 0; i < SIZE; i++) {
             for (int j = 0; j < SIZE; j++) {
                 System.out.print("| " + grid[i][j] + " ");
             }
             System.out.println("|");
-            System.out.println("---------");
+            System.out.println("-------------");
         }
     }
 

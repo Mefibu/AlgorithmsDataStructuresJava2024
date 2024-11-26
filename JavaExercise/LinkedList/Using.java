@@ -1,4 +1,4 @@
-package LinkedList;
+package JavaExercise.LinkedList;
 
 public class Using {
     public static void main(String[] args) {

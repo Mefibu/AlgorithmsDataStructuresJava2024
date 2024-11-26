@@ -1,4 +1,4 @@
-package HashMap;
+package JavaExercise.HashMap;
 
 
 public class Class {
